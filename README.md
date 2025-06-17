@@ -1,7 +1,7 @@
 # SchoolGame
 The Game I made in 4 week for school project
 
-# 🧗‍♀️ KlassenKletterer
+# 🎮 KlassenKletterer
 
 > Climb as high as you can on quirky school-themed platforms! Pens, erasers—and your reflexes—will decide how far you go.
 
@@ -24,13 +24,12 @@ The Game I made in 4 week for school project
    ```bash
    git clone https://github.com/<your-username>/KlassenKletterer.git
    cd KlassenKletterer
-
+   ```
 ## Install Requirements
-
-pip install pygame
-
+   ```bash
+   pip install pygame
+   ```
 ## Run Game
-
+   ```bash
 python game.py
-or
-python3 game.py
+   ```
