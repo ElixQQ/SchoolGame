@@ -18,7 +18,7 @@ The Game I made in 4 week for school project
 - 
 ---
 
-## For Windows
+# For Windows
 ---
 Exe file is already in /dist folder
 ---
